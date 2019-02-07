@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unix basics: Part 1
+title: 'Unix basics: Part 1'
 date: 2019-03-16 00:02:00 +0000
 tags:
   unix
