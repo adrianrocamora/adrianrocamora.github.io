@@ -1,0 +1,369 @@
+{
+  "basics": {
+    "name": "Adrian Rocamora",
+    "label": "Scientist, Techie and Entrepreneur",
+    "picture": "",
+    "email": "adrianrocamorav@gmail.com",
+    "website": "adrianrocamora.github.io",
+    "summary": "My projects have been in many diverse areas such as Computer Graphics, Computer Vision, Finance, Simulation, Robotics, Machine Learning, Real-Time System Design, Psychology, Biokinesiology, Microbiology, Philosophy, Number Theory, among others. Here's a link to my \"techie\" resume:  ___  I hold a Summa cum Laude BS in Mechatronics Engineering and a Masters in Biomedical Engineering. I worked as a researcher at USC during my PhD in Neuroscience where I focused on designing, simulating and implementing a variety of algorithms on robotic systems as well as cadavers for research in Neuromuscular Biomechanics. I later worked at Vidrio Technologies LLC creating laser microscopy and image analysis software for Neuroscience. I also worked at Fitch Solutions where I delivered high-stake, financial features to our clients using a broad variety of technologies.   I currently work as a Researcher at The Veidt Initiative, where I focus on Optimized Human Learning, Biomedical Engineering Applications and Computational Neuroscience. My preferred weapons of choice are currently Python and C++17.",
+    "location": {
+      "countryCode": "MX",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "AdrianRocamora",
+        "url": "https://twitter.com/adrianrocamorav"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Freelancer",
+      "position": "Data Scientist and Software Engineer",
+      "website": "",
+      "startDate": "2017-09-01"
+    },
+    {
+      "company": "Fitch Solutions",
+      "position": "Senior Software Engineer",
+      "startDate": "2016-01-01",
+      "endDate": "2017-02-01"
+    },
+    {
+      "company": "Fitch Solutions",
+      "position": "Software Engineer",
+      "startDate": "2016-01-01",
+      "endDate": "2016-01-01"
+    },
+    {
+      "company": "Vidrio Technologies",
+      "position": "Software Engineer",
+      "startDate": "2014-09-01",
+      "summary": "Developed code for ScanImage and other software projects using C, C++, Matlab and Labview FPGA and participated in the design and implementation of software and system architecture for relevant projects.",
+      "endDate": "2016-01-01"
+    },
+    {
+      "company": "QuetzalCodetl",
+      "position": "Co-Founder",
+      "startDate": "2014-08-01"
+    },
+    {
+      "company": "University of Southern California",
+      "position": "Research Assistant",
+      "startDate": "2011-01-01",
+      "summary": "I designed, simulated and implemented Machine Learning and biologically inspired algorithms for controlling custom-made tendon-driven robots.",
+      "highlights": [],
+      "endDate": "2014-01-01"
+    },
+    {
+      "company": "Institute for Robotics and Intelligent Systems, USC",
+      "position": "Summer Research Intern",
+      "startDate": "2010-06-01",
+      "summary": "I was tasked with designing and implementing a system to recognize 3D gestures using C++ and real-time, point-cloud data from a PrimeSense 3D sensor.  I was able to develop a system to recognize simple 3D hand-gestures using a simplified Dynamic Time Warping approach and later a modified Hidden Markov Model approach. Once a gesture was recognized the system sent commands to third party software applications. The project was developed using C++, OpenGL and OpenCV, in addition to Microchip assembly language for an input board.",
+      "endDate": "2010-08-01"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Northwestern University",
+      "area": "",
+      "studyType": "2012 Summer School in Computational Sensory-Motor Neuroscience (CoSMo 2012)",
+      "startDate": "2012-07-01",
+      "endDate": "2012-07-31"
+    },
+    {
+      "institution": "Microsoft Research Laboratory",
+      "studyType": "Summer School",
+      "startDate": "2009-07-01",
+      "endDate": "2009-07-31"
+    },
+    {
+      "institution": "University of Southern California",
+      "studyType": "Doctor of Philosophy - PhD",
+      "startDate": "2010-12-31",
+      "endDate": "2019-12-31"
+    },
+    {
+      "institution": "University of Southern California",
+      "studyType": "Master of Science (MS)",
+      "startDate": "2010-12-31",
+      "endDate": "2012-12-31"
+    },
+    {
+      "institution": "Universidad Nacional Autónoma de México",
+      "studyType": "Bachelor of Science (BS Valedictorian)",
+      "startDate": "2005-12-31",
+      "endDate": "2010-12-31"
+    },
+    {
+      "institution": "Escuela Nacional Preparatoria, UNAM",
+      "startDate": "2002-12-31",
+      "endDate": "2005-12-31"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Neuromorphic meets Neuromechanics: Part I",
+      "publisher": "Journal of Neural Engineering",
+      "releaseDate": "2016-12-31",
+      "summary": "Niu CM, Jalaleddini K, Sohn WJ, Rocamora AJ, Sanger TD, Valero-Cuevas FJ"
+    },
+    {
+      "name": "ScanImage for Closed-Loop Cellular Resolution Brain Imaging and Stimulation with Two-Photon Laser Scanning Microscopy",
+      "publisher": "Society for Neuroscience 2015",
+      "releaseDate": "2014-12-31",
+      "summary": "N. Clack, G. Jaindl, J. King, AJ. Rocamora, B. Kimmel"
+    },
+    {
+      "name": "Robustness of Policy Learning for Optimal Control of Motion of Tendon-Driven Systems",
+      "publisher": "Proceedings of the 7th World Congress of Biomechanics",
+      "releaseDate": "2013-12-31",
+      "summary": "Rocamora AJ, Buchli J, Valero-Cuevas FJ."
+    },
+    {
+      "name": "Physiologically-Based Control of a Robotic Tendon-Driven System",
+      "publisher": "Proceedings of the 43rd Annual Meeting of the Society for Neuroscience",
+      "releaseDate": "2012-12-31",
+      "summary": "Rocamora AJ, Niu CM, Buchli J, Sanger TD, Valero-Cuevas FJ."
+    },
+    {
+      "name": "Series Elastic Element is Critical for Stabilizing a Tendon-Driven Robotic Joint controlled by Physiologically Realistic Models",
+      "publisher": "Proceedings of the 6th International IEEE/EMBS Conference of Neural Engineering",
+      "releaseDate": "2012-12-31",
+      "summary": "Rocamora AJ, Niu CM, Sanger TD, Valero-Cuevas FJ"
+    },
+    {
+      "name": "Assessing the Role of Neuromuscular Components using a Tendon-Driven Robotic Plant controlled by Neuromorphic Hardware",
+      "publisher": "Proceedings of Translational and Computational Motor Control Podium Presentation",
+      "releaseDate": "2012-12-31",
+      "summary": "Niu CM*, Rocamora AJ*, Valero-Cuevas FJ~, Sanger T.~  * denotes equal contribution, ~ denotes equal leadership"
+    },
+    {
+      "name": "Force-Velocity Property of Muscle is Critical for stabilizing a Tendon-Driven Robotic Joint controlled by Neuromorphic Hardware",
+      "publisher": "Proceedings of the 6th International IEEE/EMBS Conference of Neural Engineering",
+      "releaseDate": "2012-12-31",
+      "summary": "Niu CM, Rocamora AJ, Sohn WJ, Valero-Cuevas FJ, Sanger TD."
+    },
+    {
+      "name": "A Stochastic Spiking Network Model of Sensorimotor Control",
+      "publisher": "Demonstration for Neural Information Processing Systems Conference (NIPS 2012)",
+      "releaseDate": "2011-12-31",
+      "summary": "Ghoreyshi A, Sanger TD, Rocamora AJ."
+    },
+    {
+      "name": "A Spiking Neuron Model of Sensorimotor Control and Learning",
+      "publisher": "Proceedings of the 42rd Annual Meeting of the Society for Neuroscience",
+      "releaseDate": "2011-12-31",
+      "summary": "Ghoreyshi A, Rocamora AJ, Sanger TD."
+    },
+    {
+      "name": "The Zeta Function Enigma (El Enigma de la Función Zeta)",
+      "publisher": "Self-published",
+      "releaseDate": "2006-12-31",
+      "summary": "Rocamora AJ."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Machine Learning"
+    },
+    {
+      "name": "Improvisational Comedy"
+    },
+    {
+      "name": "Biomedical Engineering"
+    },
+    {
+      "name": "Performing Arts"
+    },
+    {
+      "name": "Robotics"
+    },
+    {
+      "name": "Comedy"
+    },
+    {
+      "name": "Signal Processing"
+    },
+    {
+      "name": "Theatre"
+    },
+    {
+      "name": "Simulations"
+    },
+    {
+      "name": "Artificial Intelligence"
+    },
+    {
+      "name": "Research"
+    },
+    {
+      "name": "Musical Theatre"
+    },
+    {
+      "name": "Computer Vision"
+    },
+    {
+      "name": "Mathematical Modeling"
+    },
+    {
+      "name": "Entertainment"
+    },
+    {
+      "name": "Agile Methodologies"
+    },
+    {
+      "name": "Neuroscience"
+    },
+    {
+      "name": "Economics"
+    },
+    {
+      "name": "Psychology"
+    },
+    {
+      "name": "History"
+    },
+    {
+      "name": "Human Resources"
+    },
+    {
+      "name": "Business Strategy"
+    },
+    {
+      "name": "Operations Research"
+    },
+    {
+      "name": "Strategic Planning"
+    },
+    {
+      "name": "C++"
+    },
+    {
+      "name": "Matlab"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Improvisation"
+    },
+    {
+      "name": "Voice Acting"
+    },
+    {
+      "name": "Acting"
+    },
+    {
+      "name": "Public Speaking"
+    },
+    {
+      "name": "Language Teaching"
+    },
+    {
+      "name": "Leadership"
+    },
+    {
+      "name": "Humor"
+    },
+    {
+      "name": "Pretending to listen"
+    },
+    {
+      "name": "Stoicism"
+    },
+    {
+      "name": "Photographic Memory"
+    },
+    {
+      "name": "Viral Marketing"
+    },
+    {
+      "name": "Mechatronics"
+    },
+    {
+      "name": "Biomechanics"
+    },
+    {
+      "name": "Pattern Recognition"
+    },
+    {
+      "name": "Physical Comedy"
+    },
+    {
+      "name": "Musical Instruments"
+    },
+    {
+      "name": "Riemann Hypothesis"
+    },
+    {
+      "name": "Aikido"
+    },
+    {
+      "name": "Multilingualism"
+    },
+    {
+      "name": "Lua"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native or bilingual proficiency"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Native or bilingual proficiency"
+    },
+    {
+      "language": "German",
+      "fluency": "Limited working proficiency"
+    },
+    {
+      "language": "Italian",
+      "fluency": "Limited working proficiency"
+    },
+    {
+      "language": "Farsi",
+      "fluency": "Elementary proficiency"
+    },
+    {
+      "language": "Arabic",
+      "fluency": "Elementary proficiency"
+    },
+    {
+      "language": "Mandarin Chinese",
+      "fluency": "Elementary proficiency"
+    },
+    {
+      "language": "Korean",
+      "fluency": "Elementary proficiency"
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Elementary proficiency"
+    },
+    {
+      "language": "Dutch",
+      "fluency": "Elementary proficiency"
+    },
+    {
+      "language": "Russian",
+      "fluency": "Elementary proficiency"
+    },
+    {
+      "language": "French",
+      "fluency": "Elementary proficiency"
+    },
+    {
+      "language": "American Sign Language",
+      "fluency": "Elementary proficiency"
+    },
+    {
+      "language": "Classical Latin",
+      "fluency": "Elementary proficiency"
+    }
+  ]
+}
