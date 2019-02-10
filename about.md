@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I started this blog on 2018-03-13 so that I'd have a place to dump short essays on topics that
+I started this blog on 2019-02-10 so that I'd have a place to dump short essays on topics that
 seem to come up a lot in discussion about C++. I might occasionally say things that aren't
 about C++, too.
 
