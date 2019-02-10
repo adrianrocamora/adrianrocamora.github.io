@@ -4,19 +4,22 @@ title: About
 permalink: /about/
 ---
 
-I started this blog on 2019-02-10 so that I'd have a place to dump short essays on topics that
-seem to come up a lot in discussion about C++. I might occasionally say things that aren't
-about C++, too.
+I started this blog on 2019-02-10 so that I can share some ideas and prototypes with my friends
+or anyone that happens to find my ramblings interesting.
 
-### My Actual Publications
+There's a variety of topics I want to write about. Among them: mathematics, robotics, drawing, 
+music, computer vision, linguistics, philosophy, writing, neuroscience and data science. I'll 
+be using tags so it's a bit easier to find posts by topic.
 
-I have also produced some longer-form content.
+Well, I hope you enjoy your stay!
 
-* I speak regularly at CppCon and C++Now; these videos are collected on YouTube. [(Playlist.)](https://www.youtube.com/playlist?list=PLXTVlgmc2KcD3mgkZfrq3jJl8RNaAz-lp)
-* I wrote *[Mastering the C++17 STL](https://amzn.to/2CTujmN)*, published by Packt Publishing, September 2017.
-* I designed and Kickstarted *[Colossal Cave: The Board Game](https://amzn.to/2RvFYQV)*, published by Game Salute, 2012.
-* I have a personal website at [http://www.club.cc.cmu.edu/~ajo/](http://www.club.cc.cmu.edu/~ajo/).
+### My Projects
+
+* I'm a researcher and most of my work has been in: Computer Vision, Robotics, Neuromuscular Biomechanics and Computational Neuroscience
+* I'm a techie. I worked for several years a Software Engineer (I still do), but I'm a Mechatronics Engineer with a Master's in Biomedical Engineering and two unfinished Ph.D.'s (I'm working on it...)
+* I'm an amateur mathematician fascinated with Number Theory
+* I'm a musician (a bad one) and a digital artist (a worse one)
 
 ### Contact me
 
-[arthur.j.odwyer@gmail.com](mailto:arthur.j.odwyer@gmail.com)
+[adrianrocamorav@gmail.com](mailto:adrianrocamorav@gmail.com)
